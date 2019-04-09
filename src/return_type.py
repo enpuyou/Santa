@@ -63,6 +63,11 @@ if __name__ == "__main__":
         function="StopWordManager.is_stop_word",
         module="termfrequency.tf_objectoriented",
     )
+    types_sorted_input = get_input_type(
+        function="StopWordManager.is_stop_word",
+        module="termfrequency.tf_objectoriented",
+    )
     # print(test_return)
     # print(types_sorted)
     print(types_sorted_output)
+    print(types_sorted_input)
