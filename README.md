@@ -1,9 +1,9 @@
-# pytest-santa
+# Santa
 
 [![Build Status](https://travis-ci.com/inTestiGator/pytest-santa.svg?branch=master)](https://travis-ci.com/inTestiGator/pytest-santa)
 [![codecov](https://codecov.io/gh/inTestiGator/pytest-santa/branch/master/graph/badge.svg)](https://codecov.io/gh/inTestiGator/pytest-santa)
 
-[pytest-santa](https://intestigator.github.io/pytest-santa/) is a plugin that
+[Santa](https://intestigator.github.io/pytest-santa/) is a tool that
 collects function argument types using
 [MonkeyType](https://github.com/Instagram/MonkeyType) and then generates test
 data by [Hypothesis](https://hypothesis.works/).
